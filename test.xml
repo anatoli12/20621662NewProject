@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><library>
+    <year>
+        <yearid>1</yearid>
+        <program>
+            <programid>SIT</programid>
+            <group>
+                <groupid>1</groupid>
+                <student facnum="22421144">
+                    <name>Kaloyan Kokov</name>
+                    <!--<facnum>20621662</facnum>-->
+                    <year>II</year>
+                    <status>active</status>
+                    <average_grades>5.66</average_grades>
+                </student>
+            </group>
+        </program>
+    </year>
+</library>
